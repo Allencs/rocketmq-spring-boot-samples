@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "demo.rocketmq.topic",
+      "type": "java.lang.String",
+      "description": "Description for demo.rocketmq.topic."
+  }
+] }
